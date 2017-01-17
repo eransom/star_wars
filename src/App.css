@@ -1,0 +1,48 @@
+.title {
+  display: block;
+}
+
+.gameTitle {
+  margin-left: 160px;
+  margin-top: 25px;
+  width: 300px;
+}
+
+.userGithub {
+  display: inline-block;
+  margin-left: 260px;
+  margin-top: 25px;
+  position: relative;
+}
+
+.userName {
+  margin-right: 10px;
+}
+
+.octocat {
+  display: block;
+  margin-left: 265px;
+  margin-top: 35px;
+  position: absolute;
+  position: left;
+  width: 100px;
+}
+
+.userList {
+  color: #FFD700;
+}
+
+.inviteTitle {
+  color: #FFD700;
+  text-align: center;
+}
+
+.lightSaber {
+  margin-left: 25px;
+  margin-top: 20px;
+  width: 100px;
+}
+
+.seeInvites {
+  margin-left: 240px;
+}
